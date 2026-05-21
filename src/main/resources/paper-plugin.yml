@@ -1,0 +1,6 @@
+name: MailboxLite
+version: '${version}'
+
+main: net.civicraft.mailboxLite.MailboxLite
+api-version: '26.1.2'
+load: POSTWORLD
